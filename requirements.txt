@@ -1,0 +1,9 @@
+pandas
+numpy
+matplotlib
+streamlit
+plotly
+duckdb
+dbt-core
+openpyxl
+great-expectations
